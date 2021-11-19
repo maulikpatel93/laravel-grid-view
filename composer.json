@@ -1,5 +1,5 @@
 {
-    "name": "itstructure/laravel-grid-view",
+    "name": "maulikpatel93/laravel-grid-view",
     "description": "Grid view for laravel framework",
     "type": "library",
     "keywords": ["laravel", "grid", "gridview", "view", "table"],
